@@ -2,6 +2,10 @@
 
 Implementing a currency converter
 
+## Preview
+
+[Currency-Converter](https://bvenceslas.github.io/currency-converter)
+
 ## Getting Started
 
 The project is public and unlicensed
